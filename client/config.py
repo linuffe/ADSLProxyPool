@@ -7,7 +7,7 @@ ADSL_BASH = 'adsl-stop;adsl-start'
 PROXY_PORT = 8888
 
 # 服务器地址
-SERVER_URL = 'http://10.30.28.148:8000'
+SERVER_URL = 'http://120.27.34.24:8000'
 
 # 通信秘钥
 TOKEN = 'adsl'
